@@ -5,6 +5,8 @@ A collection of concise notes on technical problems, engineering insights, and d
 ### Categories
 
 - [LeetCode](#leetcode)
+- [Testing](#testing)
+- [Python](#python)
 
 
 
