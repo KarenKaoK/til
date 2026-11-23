@@ -7,7 +7,12 @@ A collection of concise notes on technical problems, engineering insights, and d
 - [LeetCode](#leetcode)
 - [Testing](#testing)
 - [Python](#python)
+- [Agent](#agent)
 
+
+### Agent
+
+- [Spec-driven development](agent/spec-driven-development.md)
 
 
 ### About
