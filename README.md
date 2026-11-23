@@ -12,6 +12,8 @@ A collection of concise notes on technical problems, engineering insights, and d
 - [Testing](#testing)
 - [Tool](#tool)
 
+---
+
 ### Agent
 
 - [Spec-driven development](agent/spec-driven-development.md)

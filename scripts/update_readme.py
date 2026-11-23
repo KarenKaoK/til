@@ -58,6 +58,8 @@ def render_index() -> str:
     for label, slug, _ in found_categories:
         lines.append(f"- [{markdown_text(label)}](#{slug})")
 
+    lines.extend(["", "---"])
+
     for label, _, articles in found_categories:
         lines.extend(["", f"### {label}", ""])
         for article in articles:
