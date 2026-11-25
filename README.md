@@ -16,6 +16,7 @@ A collection of concise notes on technical problems, engineering insights, and d
 
 ### Agent
 
+- [spec-driven-development-tools](agent/spec-driven-development-tools.md)
 - [Spec-driven development](agent/spec-driven-development.md)
 
 ### LeetCode
