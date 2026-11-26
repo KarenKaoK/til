@@ -18,6 +18,7 @@ A collection of concise notes on technical problems, engineering insights, and d
 
 - [spec-driven-development-tools](agent/spec-driven-development-tools.md)
 - [Spec-driven development](agent/spec-driven-development.md)
+- [TIL: GitHub Spec Kit — Spec-Driven Development](agent/understanding-spec-kit-development-workflow.md)
 
 ### LeetCode
 
